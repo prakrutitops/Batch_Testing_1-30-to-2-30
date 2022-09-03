@@ -1,0 +1,44 @@
+What is Testing?
+
+=>Testing is the process of evaluating a system or its
+component(s) with the intent to find that whether it satisfies
+the specified requirements or not.
+
+=>testing is executing a system in order to identify
+any gaps, errors or missing requirements in contrary to the
+actual desire or requirements
+
+=>Software Testing is a process used to identify the correctness,
+completeness, and quality of developed computer software.
+
+=>Testing is a process of validating and verifying
+
+=>Testing is divided in below parts:
+1)Process 
+2)All Life Cycle Activities 
+3)Static Testing :Without Executing Code
+4)Dynamic Testing :With Executing Code
+5)Planning 
+6)Preparation 
+7)Evaluation 
+8)Software products and related work products
+
+SDLC
+
+7 Key Principle:
+1. Testing shows presence of Defects : Find Defects
+2. Exhaustive Testing is Impossible! : It's not Possible to Test Everything
+3. Early Testing : Start Testing from first stage
+4. Defect Clustering : If One Project Having a some errors that error should not effect another working project
+5. The Pesticide Paradox : Regulary Review and Revised
+6. Testing is Context Dependent : You can not Test Every Project in same way
+7. Absence of Errors Fallacy : Error should not occured
+
+
+Task:
+ATM System
+Movie Ticket Booking
+Course choose
+Voting App
+
+
