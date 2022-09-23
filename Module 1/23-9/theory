@@ -1,0 +1,78 @@
+STLC-Software Testing Lifecycle
+1. Requirement Analysis
+2. Test Planning
+3. Test case development
+4. Test Environment setup
+5. Test Execution
+6. Test Cycle closure
+
+
+Entry :Coding Complete
+Exit : Testing Complete
+
+QA ->Quality Assurance
+Identify types of tests to be performed
+Gather details about testing priorities and focus.
+Prepare Requirement Traceability Matrix (RTM).
+
+Identify test environment details where testing is supposed to be carried out.
+
+Requirement Planning Report:
+
+RTM
+Automation feasibility report. (if applicable)
+
+
+Tester -Testing
+Developer -Debugging
+
+Self Testing & Independent Testing:
+This degree of independence avoids author bias and is often Testing
+more effective at finding defects and failures
+
+Levels of Testing:
+1)Unit Testing (Componenet Testing)-
+-> The testing of individual software components.
+-> Single Unit
+-> Unit Testing, Module Testing or Program Testing
+-> Unit testing frameworks, drivers, stubs and mock or fake objects
+-> Unit testing is performed by using the White Box Testing method.
+
+1)Black Box ->data hidden
+2)White Box ->data visible
+
+
+
+2)Integration Testing-
+-> Unit Testing
+-> Combine ->integrate->combine
+-> Integration Testing is a level of the software testing process 
+   where individual units are combined and tested as a group.
+-> Component Integration Testing
+-> System Integration Testing
+
+========================System Integration Testing===============================
+
+-> Big Bang Integration Testing
+
+1)Top Down
+2)Bottom Up
+
+1->Assume -> Driver
+
+
+2->Assume -> Stub
+
+
+
+
+===================================================================================
+
+3)System Testing-
+=> Functional System Testing
+=> A requirement that specifies a function that a system or system component must perform
+4)Acceptance Testing-
+
+
+
+
